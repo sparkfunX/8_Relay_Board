@@ -1,41 +1,18 @@
-SparkFun <PRODUCT NAME>
+SparkX 8 Relay Control Board
 ========================================
 
-[![SparkFun Part Name](URL for picture of part)](URL for product on Sparkfun.com)
+[![8 Relay Control Board](https://cdn.sparkfun.com//assets/parts/2/4/6/0/6/SFX-24276-8-Relay-Control-Board-Feature.jpg)]()
 
-[*SparkFun Part Name (SKU)*](URL for product on Sparkfun.com)
+[*8 Relay Control Board (SPX-?????)*]()
 
-<Basic description of the part.>
+A simple breakout for controlling 8 relays with logic level signals. Each relay channel is opto-isolated from its corresponding logic input, the inputs accept both 3V and 5V logic, and a status LED on each channel makes it easy to tell at a glance which relay is energized. All LEDs on the board, including the power indicator, are connected through cuttable solder jumpers so they can be disabled if you don't need them. The relays are rated to 5A/250VAC, making them useful for a lot of power control applications.
 
 Repository Contents
 -------------------
 
 * **/Documentation** - Data sheets, additional product information
-* **/Enclosure** - Enclosure files 
-* **/Firmware** - Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
-* **/Libraries** - Libraries for use with the <PRODUCT NAME>
 * **/Production** - Production panel files (.brd)
-* **/Software** - Related software for the <PRODUCT NAME>
-
-Documentation
---------------
-* **[Library](GitHub library URL)** - <LANGUAGE> library for the <PRODUCT NAME>.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the <PRODUCT NAME>.
-* **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
-* **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
-* **[SparkFun Graphical Datasheets](https://github.com/sparkfun/Graphical_Datasheets)** -Graphical Datasheets for various SparkFun products.
-
-Product Versions
-----------------
-* [Part SKU](part URL) - Basic part and short description here
-* [Retail part SKU](retail URL) - Retail packaging of standard description here
-* [Any other parts this repo covers](any other URLs) - Description of said parts
-
-Version History
----------------
-* [vExxFxxZxxHxxLxxSxx](URL for tag specific to this version) - Description 
-* [vEyyFyyZyyHyyLyySyy](URL for tag specific to this version) - Description
 
 License Information
 -------------------
